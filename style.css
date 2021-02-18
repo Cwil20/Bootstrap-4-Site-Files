@@ -9,6 +9,20 @@ html, body {
 #background {
   height: 900px;
 }
+#redstone {
+  height:350px;
+}
+#power {
+  height: 55px;
+}
+#stone {
+  height: 400px;
+  width:700px;
+}
+#evilstone {
+  height: 400px;
+  width: 800px;
+}
 .navbar {
   padding: .8rem;
 }
@@ -209,7 +223,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/mac.png');
+  background-image: url('img/maxneck.PNG');
   position: fixed;
   display: block;
   top: 0;
